@@ -1,0 +1,14 @@
+function calculo() {
+
+var x   = 1;
+var y   = 2;
+
+if(x > y){
+    alert(x + " é maior")
+    console.log(x);
+} else{
+    alert(y + " é maior")
+    console.log(y);
+}
+
+}
